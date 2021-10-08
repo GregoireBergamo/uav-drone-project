@@ -17,3 +17,8 @@ movements and find the landing pad in the landing zone.
 * In the workspace, there can be a few obstacles of previously unknown dimensions
 which it can detect with the multiranger deck. Your developed algorithm should
 the drone to avoid any collisions.
+
+A video showing the result can be found below. 
+
+https://user-images.githubusercontent.com/26313021/136582525-5a5be942-0b9b-476f-9a9b-3303b5ffac2b.mp4
+
