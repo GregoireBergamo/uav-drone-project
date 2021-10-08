@@ -20,5 +20,6 @@ the drone to avoid any collisions.
 
 A video showing the result can be found below. 
 
-https://user-images.githubusercontent.com/26313021/136582525-5a5be942-0b9b-476f-9a9b-3303b5ffac2b.mp4
+
+https://user-images.githubusercontent.com/26313021/136582926-7eb60fe7-2423-4d8c-8a2d-cd77e3fe598b.mp4
 
