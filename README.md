@@ -4,7 +4,7 @@ Drone project done part of the Aerial Robotics course at EPFL
 In this project, we programmed a Crazyflie drone to find and precisely land on a
 platform with the help of minimal sensory information. Additionally, we used sensor readings to design a robust algorithm that can avoid obstacles present in the environment.
 
-![Arena Image](drone_project_map.PNG)
+<img src="drone_project_map.PNG" width="350" title="Arena Sketch">
 
 The arena for the final demonstration is shown in the figure above. The task you are required
 to complete in this arena is composed of multiple phases:
