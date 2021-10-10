@@ -7,7 +7,7 @@ platform with the help of minimal sensory information. Additionally, we used sen
   <img src="drone_project_map.PNG" width="600" title="Arena Sketch">
 </p>
 
-The arena for the final demonstration is shown in the figure above. The task you are required
+The arena for the final demonstration is shown in the figure above. The task we are required
 to complete in this arena is composed of multiple phases:
 * The drone takes off from a take-off pad placed within the starting region.
 * Thanks to the optic-flow sensor and a z-range finder the drone can track its
